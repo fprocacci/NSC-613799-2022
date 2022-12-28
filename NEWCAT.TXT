@@ -5,3 +5,5 @@ OLD CAT
 UNSTAGED
 UNSTAGED
 modified
+
+add something to newcat.txt
